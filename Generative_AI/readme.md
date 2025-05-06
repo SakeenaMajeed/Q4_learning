@@ -15,7 +15,6 @@ This project is a detailed research blog on **"What is Generative AI"**. It expl
 Read the full blog on Medium:  
 👉 [Click here to read](https://medium.com/@sakeenamajeed341/generative-ai-a-world-of-new-ideas-and-creativity-47bb79ee3100)
 
-> *(Replace the link above with your actual Medium blog URL)*
 
 ## 📖 Blog Summary
 
@@ -60,7 +59,7 @@ Examples:
 
 Generative AI is an **incredible technology** that is making our lives more creative and efficient. In today’s fast-paced world, it's a powerful tool for innovation. Whether you're an artist, writer, or entrepreneur, Generative AI can be a **game changer**.
 
-> Ready to dive into the future of creativity? Start exploring Generative AI today!
+
 
 
 
