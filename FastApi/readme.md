@@ -16,11 +16,6 @@ FastAPI is a modern, high-performance web framework for building APIs in Python.
 
 ---
 
-**Prerequisites**
-Python version 3.7 or above is required.
-
----
-
 **Installation**
 Follow these steps to set up your FastAPI project:
 
@@ -58,4 +53,12 @@ To add development dependencies for unit testing, run the following command:
 
 ---
 
-Let me know if you need further adjustments!
+## Connect With Me
+
+Feel free to connect with me and follow my journey:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sakeena-majeed-86b58732a/)  
+- 📸 [Instagram](https://www.instagram.com/_sakeena_majeed?igsh=cHZ4MHl3MTF4dDcz)  
+- 👍 [Facebook](https://www.facebook.com/share/16a4Eh3Hy7/)
+- 😎[Medium](https://medium.com/@sakeenamajeed341)
+
