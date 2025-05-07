@@ -1,8 +1,8 @@
-Here's your text with some parts bolded and italicized as per your request:
 
----
 
 ***FastAPI Project***
+
+
 FastAPI is a modern, high-performance web framework for building APIs in Python. It is built on top of Starlette and Pydantic and comes with automatic documentation features. FastAPI is designed to be fast, easy to use, and scalable, making it an ideal choice for developing APIs.
 
 ---
