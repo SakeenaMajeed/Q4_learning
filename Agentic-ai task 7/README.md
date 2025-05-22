@@ -187,6 +187,6 @@ This structure enables scalable and modular AI system design. It ensures reusabi
 ## Useful Links
 
 - [OpenAI Platform Documentation](https://platform.openai.com/docs)  
-- [OpenAI Agents SDK GitHub](https://github.com/openai/agents-sdk)  
+
 
 
